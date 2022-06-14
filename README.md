@@ -1,6 +1,6 @@
 # Eveline
 
-## [Play Eveline in your browser (HTML5)](http://www.pippinbarr.com/games/eveline/)
+## [Play Eveline in your browser (HTML5)](https://pippinbarr.github.io/eveline/)
 
 _Eveline_ was written in JavaScript/HTML5 using the Phaser game framework. Sounds were created using [bfxr](http://www.bfxr.net/) and [Audacity](http://www.audacityteam.org/). Music was created in [Bosca Ceoil](http://boscaceoil.net/).
 
