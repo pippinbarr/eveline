@@ -1,7 +1,3 @@
-# Eveline
+# *Eveline*
 
-## [Play Eveline in your browser (HTML5)](https://pippinbarr.github.io/eveline/)
-
-_Eveline_ was written in JavaScript/HTML5 using the Phaser game framework. Sounds were created using [bfxr](http://www.bfxr.net/) and [Audacity](http://www.audacityteam.org/). Music was created in [Bosca Ceoil](http://boscaceoil.net/).
-
-_Eveline_ has been featured on [Kill Screen](https://killscreen.com/articles/a-videogame-that-tricks-you-into-reading-literature/), [Gadgette](http://www.gadgette.com/2016/03/24/this-game-simulates-the-experience-of-being-a-writer/), [The Next Web](http://thenextweb.com/shareables/2016/03/25/eveline-browser-game/), [IndieGames.com](http://indiegames.com/2016/03/write_with_eveline.html), [Anait](http://www.anaitgames.com/articulos/eveline) (in Spanish), [24.hu](http://24.hu/tech/2016/03/29/ebbol-a-jatekbol-megtudja-milyen-ironak-lenni/) (in Hungarian), [Warp Door](http://warpdoor.com/2016/03/30/eveline-pippin-barr/), [Update or Die](http://www.updateordie.com/2016/03/31/eveline-um-indie-game-de-escrever-livros/) (in Portuguese), Berfois, [Somewhat Thoughtful](http://arrogantgamer.tumblr.com/post/144864562704/this-morning-i-played-eveline-by-pippin-barr-big), and [PC Gamer&#8217;s Free Games of the Week](http://www.pcgamer.com/free-games-of-the-week/15/). [Richard Goodness](https://richardgoodness.wordpress.com/) wrote a critique focusing on the [role of modernist literature in the game](https://richardgoodness.wordpress.com/2016/04/02/84-eveline/)!
+This is the code and process repository for the game *Eveline*. See the [information page](info/) for more detail.
